@@ -35,3 +35,7 @@
 * para gerar a docstring
 `poetry add --group doc mkdocstrings`
 `poetry add --group doc mkdocstrings-python`
+
+* criando ambiente virtual com venv
+`python3 -m venv venv`
+`source venv/bin/activate`
